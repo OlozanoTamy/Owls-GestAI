@@ -15,7 +15,7 @@
         </div>
                 <h3>Modelo RestNet50</h3>
             <p>El modelo RestNet50 esta disponible para su descarga:</p>
-            <a href="https://colab.research.google.com/drive/1eYjY810-OUXU534NSVeG741EcgFSwmE3?usp=sharing" class="badge">Descargar Modelo RestNet50</a>
+            <a href="#" class="badge">Descargar Modelo RestNet50</a>
         </div>
             <h2>Instrucciones de Uso</h2>
             <ol>
