@@ -13,6 +13,10 @@
             <p>El modelo VGG16 también está disponible para su descarga en el siguiente enlace:</p>
             <a href="https://drive.google.com/file/d/1VpJ8ixg6eoe0VEaeGxeTaNb9SAToVJIZ/view?usp=sharing" class="badge">Descargar Modelo VGG16</a>
         </div>
+                <h3>Modelo RestNet50</h3>
+            <p>El modelo RestNet50 esta disponible para su descarga:</p>
+            <a href="https://colab.research.google.com/drive/1eYjY810-OUXU534NSVeG741EcgFSwmE3?usp=sharing" class="badge">Descargar Modelo RestNet50</a>
+        </div>
             <h2>Instrucciones de Uso</h2>
             <ol>
                 <li>Descargue los modelos desde los enlaces proporcionados.</li>
