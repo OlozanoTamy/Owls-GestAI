@@ -1,6 +1,8 @@
 
 <h1>Proyecto Capstone - Samsung Innovation Campus 2023</h1>
-        <p>Este repositorio se ha creado en el marco del proyecto Capstone del Samsung Innovation 2023. <br>En él se presenta el código fuente de los modelos entrenados.
+        <p>Este repositorio se ha creado en el marco del proyecto Capstone del Samsung Innovation 2023. <br>En él se presenta el código fuente de los modelos entrenados
+        <p>La carpeta con el dataset de Entrenamiento se encuentra en el siguiente Link</p>
+        <a href="https://drive.google.com/drive/folders/1Wuj-mmuwkJrs1Sq5gyKcmaudhleDgFFF?usp=sharing">Dataset GestIA</a>
         </p>
         <div class="section">
             <h2>Modelos Entrenados</h2>
